@@ -39,6 +39,12 @@
             "show_empty": false
           }
         },
+        "inventory_yckNaY": {
+          "type": "inventory",
+          "settings": {
+            "low_inventory_threshold": 0
+          }
+        },
         "text_MihYax": {
           "type": "text",
           "settings": {
@@ -129,6 +135,7 @@
         "collapsible_text_fEBLdf",
         "variant_picker",
         "quantity_selector",
+        "inventory_yckNaY",
         "buy_buttons"
       ],
       "settings": {

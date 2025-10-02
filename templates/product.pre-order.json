@@ -32,6 +32,12 @@
           "type": "rating",
           "settings": {}
         },
+        "inventory_yckNaY": {
+          "type": "inventory",
+          "settings": {
+            "low_inventory_threshold": 0
+          }
+        },
         "payment_terms": {
           "type": "payment_terms",
           "settings": {}
@@ -72,6 +78,7 @@
         "description",
         "variant_picker",
         "quantity_selector",
+        "inventory_yckNaY",
         "buy_buttons"
       ],
       "settings": {}

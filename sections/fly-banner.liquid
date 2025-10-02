@@ -1,0 +1,180 @@
+{%- if section.blocks.size > 0 -%}
+
+  {%- comment -%}
+  ------------------------------------------------------------------------------------------------------------------------
+  LIQUID
+  ------------------------------------------------------------------------------------------------------------------------
+  {%- endcomment -%}
+
+  <height-observer variable="announcement-bar">
+    <div {% render 'surface', class: 'announcement-bar', background_gradient: section.settings.background_gradient, background: section.settings.background, text_color: section.settings.text_color %}>
+      {%- if section.settings.navigation_mode == 'scrolling' -%}
+        <marquee-text scrolling-speed="{{ section.settings.scrolling_speed }}" class="announcement-bar__scrolling-list">
+          {%- capture content -%}
+            {%- for block in section.blocks -%}
+              <p class="bold {{ section.settings.text_size }}" {{ block.shopify_attributes }}>
+                {%- if block.settings.url != blank -%}
+                  <a href="{{ block.settings.url }}">{{ block.settings.text | escape }}</a>
+                {%- else -%}
+                  {{ block.settings.text | escape }}
+                {%- endif -%}
+              </p>
+
+              <span class="shape-circle shape--sm"></span>
+            {%- endfor -%}
+          {%- endcapture -%}
+
+          {%- for i in (1..10) -%}
+            <span class="announcement-bar__item" {% unless forloop.first %}aria-hidden="true"{% endunless %}>
+              {{- content -}}
+            </span>
+          {%- endfor -%}
+        </marquee-text>
+      {%- else -%}
+        <div class="container">
+          <div class="announcement-bar__wrapper {% if section.blocks.size == 1 %}justify-center{% else %}justify-between{% endif %}">
+            {%- if section.blocks.size > 1 -%}
+              <button class="tap-area" is="prev-button" aria-controls="announcement-bar" aria-label="{{ 'general.accessibility.previous' | t }}">
+                {%- render 'icon' with 'chevron-left', direction_aware: true -%}
+              </button>
+            {%- endif -%}
+
+            <announcement-bar swipeable id="announcement-bar" class="announcement-bar__static-list">
+              {%- for block in section.blocks -%}
+                <p class="bold {{ section.settings.text_size }} {% unless forloop.first %}reveal-invisible{% endunless %}" {{ block.shopify_attributes }}>
+                  {%- if block.settings.url != blank -%}
+                    <a href="{{ block.settings.url }}">{{ block.settings.text | escape }}</a>
+                  {%- else -%}
+                    {{ block.settings.text | escape }}
+                  {%- endif -%}
+                </p>
+              {%- endfor -%}
+            </announcement-bar>
+
+            {%- if section.blocks.size > 1 -%}
+              <button class="tap-area" is="next-button" aria-controls="announcement-bar" aria-label="{{ 'general.accessibility.next' | t }}">
+                {%- render 'icon' with 'chevron-right', direction_aware: true -%}
+              </button>
+            {%- endif -%}
+          </div>
+        </div>
+      {%- endif -%}
+    </div>
+  </height-observer>
+{%- endif -%}
+
+{% schema %}
+{
+  "name": "Fly banner",
+  "class": "shopify-section--fly-banner shopify-section--announcement-bar",
+  "tag": "section",
+  "max_blocks": 10,
+  "disabled_on": {
+    "templates": ["password"],
+    "groups": ["header", "custom.overlay"]
+  },
+  "blocks": [
+    {
+      "type": "message",
+      "name": "Message",
+      "settings": [
+        {
+          "type": "text",
+          "id": "text",
+          "label": "Text",
+          "default": "Announce something here"
+        },
+        {
+          "type": "url",
+          "id": "url",
+          "label": "Link"
+        }
+      ]
+    }
+  ],
+  "settings": [
+    {
+      "type": "select",
+      "id": "text_size",
+      "label": "Text size",
+      "options": [
+        {
+          "value": "h6",
+          "label": "X-Small"
+        },
+        {
+          "value": "h5",
+          "label": "Small"
+        },
+        {
+          "value": "h4",
+          "label": "Medium"
+        },
+        {
+          "value": "h3",
+          "label": "Large"
+        }
+      ],
+      "default": "h3"
+    },
+    {
+      "type": "select",
+      "id": "navigation_mode",
+      "label": "Multiple message navigation",
+      "options": [
+        {
+          "value": "arrows",
+          "label": "Arrows"
+        },
+        {
+          "value": "scrolling",
+          "label": "Auto-scrolling"
+        }
+      ],
+      "default": "scrolling"
+    },
+    {
+      "type": "range",
+      "id": "scrolling_speed",
+      "label": "Scrolling speed",
+      "min": 10,
+      "max": 30,
+      "unit": "s",
+      "default": 20
+    },
+    {
+      "type": "header",
+      "content": "Colors",
+      "info": "Gradient replaces solid colors when set."
+    },
+    {
+      "type": "color",
+      "id": "background",
+      "label": "Background"
+    },
+    {
+      "type": "color_background",
+      "id": "background_gradient",
+      "label": "Background gradient"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text"
+    }
+  ],
+   "presets": [
+      {
+      "name": "Fly banner",
+      "blocks": [
+        {
+        "type": "message",
+        },
+        {
+        "type": "message",
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
