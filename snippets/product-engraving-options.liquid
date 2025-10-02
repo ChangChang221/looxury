@@ -1,0 +1,299 @@
+
+{% if product.metafields.product_info.engraving_options
+  and product.metafields.product_info.engraving_options.options.size > 0
+%}
+  <div id="custom-engraving">
+    {% comment %} <h3>Tạo quà tặng cho người thân</h3> {% endcomment %}
+    <div class="engraving-detail">
+      {% if product.handle != 'premium-mahjong-set'%}
+        <div class="engraving-items">
+          <div class="engraving-row">
+            <div class="engraving-left">
+              <span class="icon-engraving">
+                <svg width="40" height="41" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g clip-path="url(#clip0_2229_3828)">
+                    <circle cx="20" cy="20.5" r="20" fill="#533201"/>
+                    <path opacity="0.4" d="M27.9707 19V27C27.9707 30 26.9707 31 23.9707 31H15.9707C12.9707 31 11.9707 30 11.9707 27V19H27.9707Z" fill="#EDF0D1"/>
+                    <path d="M29.5 16V17C29.5 18.1 28.97 19 27.5 19H12.5C10.97 19 10.5 18.1 10.5 17V16C10.5 14.9 10.97 14 12.5 14H27.5C28.97 14 29.5 14.9 29.5 16Z" fill="#EDF0D1"/>
+                    <path opacity="0.4" d="M19.6408 14.0004H14.1208C13.7808 13.6304 13.7908 13.0604 14.1508 12.7004L15.5708 11.2804C15.9408 10.9104 16.5508 10.9104 16.9208 11.2804L19.6408 14.0004Z" fill="#EDF0D1"/>
+                    <path opacity="0.4" d="M25.8696 14.0004H20.3496L23.0696 11.2804C23.4396 10.9104 24.0496 10.9104 24.4196 11.2804L25.8396 12.7004C26.1996 13.0604 26.2096 13.6304 25.8696 14.0004Z" fill="#EDF0D1"/>
+                    <path opacity="0.6" d="M16.9395 19V24.14C16.9395 24.94 17.8195 25.41 18.4895 24.98L19.4295 24.36C19.7695 24.14 20.1995 24.14 20.5295 24.36L21.4195 24.96C22.0795 25.4 22.9695 24.93 22.9695 24.13V19H16.9395Z" fill="#EDF0D1"/>
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_2229_3828">
+                      <rect width="40" height="40" fill="white" transform="translate(0 0.5)"/>
+                    </clipPath>
+                  </defs>
+                </svg>
+              </span>
+            </div>
+            <div class="engraving-right">
+              <div class="engraving-checkbox">
+             
+                {% assign gift_wrapping_id = 43586730229900 %}
+
+                <input type="checkbox" id="gift-wrapping" value="false">
+                <input type="hidden" id="gift-wrapping-id" value="{{ gift_wrapping_id }}">
+                <label class="checkbox-fk" for="gift-wrapping"></label>
+                {% if gift_wrapping_id == 43586731081868 %}
+                  <label for="gift-wrapping">Free Gift wrapping</label>
+                {% else %}
+                  <label for="gift-wrapping">Gift wrapping (+$4.99)</label>
+                {% endif %}
+                {% comment %} <p>Bao gồm giấy gói quà và một thiệp viết tay</p> {% endcomment %}
+              </div>
+            </div>
+          </div>
+          <div class="engraving-style">
+            <div class="gift-wrapping-option">
+            </div>
+          </div>
+          <div class="gift-wrapping-text">
+            <input class="gift-wrapping-input" type="text" placeholder="Gift wrapping note" maxlength="40">
+            <div class="gift-wrapping-note">
+              Each gift-wrapping option features a personal greeting card. Please let us know your message and we will handwrite it for you (up to 40 characters)
+            </div>
+          </div>
+        </div>
+      {% endif %}
+      {% if product.handle != 'test'%}
+        <div class="engraving-items">
+          <div class="engraving-row">
+            <div class="engraving-left">
+              <span class="icon-engraving">
+                <svg width="40" height="41" viewBox="0 0 40 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g clip-path="url(#clip0_2229_3884)">
+                    <circle cx="20" cy="20.5" r="20" fill="#533201"/>
+                    <path opacity="0.4" d="M23.48 12H15.52C12.07 12 10 14.06 10 17.52V25.47C10 28.94 12.07 31 15.52 31H23.47C26.93 31 28.99 28.94 28.99 25.48V17.52C29 14.06 26.93 12 23.48 12Z" fill="#EDF0D1"/>
+                    <path d="M29.0195 11.9803C27.2295 10.1803 25.4795 10.1403 23.6395 11.9803L22.5095 13.1003C22.4095 13.2003 22.3795 13.3403 22.4195 13.4703C23.1195 15.9203 25.0795 17.8803 27.5295 18.5803C27.5595 18.5903 27.6095 18.5903 27.6395 18.5903C27.7395 18.5903 27.8395 18.5503 27.9095 18.4803L29.0195 17.3603C29.9295 16.4503 30.3795 15.5803 30.3795 14.6903C30.3795 13.7903 29.9295 12.9003 29.0195 11.9803Z" fill="#EDF0D1"/>
+                    <path d="M25.8591 19.4198C25.5891 19.2898 25.3291 19.1598 25.0891 19.0098C24.8891 18.8898 24.6891 18.7598 24.4991 18.6198C24.3391 18.5198 24.1591 18.3698 23.9791 18.2198C23.9591 18.2098 23.8991 18.1598 23.8191 18.0798C23.5091 17.8298 23.1791 17.4898 22.8691 17.1198C22.8491 17.0998 22.7891 17.0398 22.7391 16.9498C22.6391 16.8398 22.4891 16.6498 22.3591 16.4398C22.2491 16.2998 22.1191 16.0998 21.9991 15.8898C21.8491 15.6398 21.7191 15.3898 21.5991 15.1298C21.4691 14.8498 21.3691 14.5898 21.2791 14.3398L15.8991 19.7198C15.5491 20.0698 15.2091 20.7298 15.1391 21.2198L14.7091 24.1998C14.6191 24.8298 14.7891 25.4198 15.1791 25.8098C15.5091 26.1398 15.9591 26.3098 16.4591 26.3098C16.5691 26.3098 16.6791 26.2998 16.7891 26.2898L19.7591 25.8698C20.2491 25.7998 20.9091 25.4698 21.2591 25.1098L26.6391 19.7298C26.3891 19.6498 26.1391 19.5398 25.8591 19.4198Z" fill="#EDF0D1"/>
+                  </g>
+                  <defs>
+                    <clipPath id="clip0_2229_3884">
+                      <rect width="40" height="40" fill="white" transform="translate(0 0.5)"/>
+                    </clipPath>
+                  </defs>
+                </svg>
+              </span>
+            </div>
+            <div class="engraving-right">
+              <div class="engraving-checkbox">
+                {% assign engraving_variant_id = 43586731966604 %}
+                <input type="checkbox" id="custom-engraving-checkbox">
+                <input type="hidden" id="engraving-variant-id" value="{{ engraving_variant_id }}">
+                <label class="checkbox-fk" for="custom-engraving-checkbox"></label>
+                {% if engraving_variant_id == 43586732359820 %}
+                  <style>
+                    #custom-engraving .engraving-detail {
+                      display: flex;
+                      flex-direction: column-reverse;
+                    }
+                    #custom-engraving .engraving-detail .engraving-items:not(:last-child) {
+                      margin-bottom: 0;
+                      margin-top: 16px;
+                    }
+                  </style>
+                  {% capture free_tag_style %}
+                  display: inline-block;
+                  font-size: 0.75em;
+                {% endcapture %}
+                  <label for="custom-engraving-checkbox">
+                    FREE CUSTOM ENGRAVING  
+                    <!-- <s>(+$14.99)</s> -->
+                    <!-- <span style="{{ free_tag_style }}" class="price__badge price__badge--sale" aria-hidden="true">
+                      <span>Free</span>
+                    </span> -->
+                  </label>
+                {% else %}
+                  <label for="custom-engraving-checkbox">Custom engraving (+$14.99)</label>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+          <div class="engraving-style">
+            <div class="engraving-options">
+              {% for option in product.metafields.product_info.engraving_options.options %}
+                <div
+                  class="engraving-option {% if forloop.first == true %}selected{% endif %}"
+                  data-image="{{ option.image }}"
+                  data-text-limit="{{ option.text_limit }}"
+                >
+                  <!-- <img src="{{ option.image }}" /> -->
+                  <img loading="lazy" data-mfp-src="{{ option.image }}" src="{{ option.image }}">
+                  <div class="option-label">{{ option.label }}</div>
+                </div>
+              {% endfor %}
+            </div>
+          </div>
+          <div class="engraving-text">
+            <h4>Note</h4>
+            {% assign default_option = product.metafields.product_info.engraving_options.options | first %}
+            <input
+              class="engraving-input"
+              type="text"
+              placeholder="Your engraving"
+              maxlength="{% if default_option.text_limit %}{{default_option.text_limit}}{% else %}12{% endif %}"
+            >
+            <div class="engraving-note">
+              Engrave a mix of numbers and text (up to 6 characters) to make it yours.
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+  <style>
+    .hide {
+      display: none;
+    }
+    #custom-engraving {
+      width: 100%;
+    }
+    #custom-engraving h3,
+    #custom-engraving .h3 {
+      font-weight: bold;
+      font-size: 14px;
+      line-height: 24px;
+      letter-spacing: 0.1px;
+      color: rgba(0, 0, 0, 0.87);
+      margin-bottom: 22px;
+    }
+    #custom-engraving .engraving-detail .engraving-items {
+      padding: 16px;
+      background: rgb(236 231 209);
+    }
+    #custom-engraving .engraving-detail .engraving-items:not(:last-child) {
+      margin-bottom: 16px;
+    }
+    #custom-engraving .engraving-detail .engraving-items .engraving-row {
+      display: flex;
+      align-items: center;
+    }
+    #custom-engraving .engraving-detail .engraving-items .engraving-left {
+      width: 40px;
+    }
+    #custom-engraving .engraving-detail .engraving-items .engraving-left span {
+      display: block;
+      line-height: 0;
+    }
+    #custom-engraving .engraving-detail .engraving-items .engraving-right {
+      width: calc(100% - 40px);
+      position: relative;
+      padding-left: 16px;
+    }
+    #custom-engraving .engraving-detail .engraving-checkbox {
+      padding-right: 20px;
+    }
+    #custom-engraving .engraving-detail .engraving-checkbox input {
+      min-height: inherit;
+      margin-right: 10px;
+      margin-top: 6px;
+      position: absolute;
+      opacity: 0;
+    }
+    #custom-engraving .engraving-detail .engraving-checkbox input:checked ~ .checkbox-fk:before {
+      position: absolute;
+      content: '';
+      width: 7px;
+      height: 13px;
+      border-bottom: 2px solid #c9b36b;
+      border-right: 2px solid #c9b36b;
+      top: 1px;
+      left: 6px;
+      transform: rotate(45deg);
+    }
+    #custom-engraving .engraving-detail .engraving-checkbox .checkbox-fk {
+      position: absolute;
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      border: 1.5px solid #533201;
+      border-radius: 4px;
+      top: 50%;
+      transform: translateY(-50%);
+      right: 0;
+    }
+    #custom-engraving .engraving-detail .engraving-checkbox label {
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 24px;
+      color: #533201;
+      letter-spacing: 0.15px;
+      text-transform: uppercase;
+      margin-bottom: 0;
+    }
+    #custom-engraving .engraving-detail .engraving-checkbox p {
+      font-size: 14px;
+      line-height: 21px;
+      letter-spacing: 0.25px;
+      color: #533201;
+      font-family: 'Be Vietnam Pro', sans-serif;
+    }
+    #custom-engraving .engraving-detail .gift-wrapping-text {
+      margin-bottom: 20px;
+      margin-top: 20px;
+    }
+    #custom-engraving .engraving-detail .gift-wrapping-text input {
+      padding: 8px 10px;
+      min-height: inherit;
+      width: 100%;
+      margin-bottom: 5px;
+    }
+    #custom-engraving .engraving-detail .gift-wrapping-text .gift-wrapping-note {
+      font-style: italic;
+      font-size: 13px;
+    }
+    #custom-engraving .engraving-detail .engraving-style {
+      margin-top: 20px;
+    }
+    #custom-engraving .engraving-detail .engraving-style .engraving-options {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    #custom-engraving .engraving-detail .engraving-style .engraving-options .engraving-option {
+      max-width: calc(50% - 5px);
+      flex: 0 0 calc(50% - 5px);
+      border: 1px solid #ebebeb;
+      border-radius: 2px;
+      cursor: pointer;
+      transition: all 0.2s ease-in-out;
+    }
+    #custom-engraving .engraving-detail .engraving-style .engraving-options .engraving-option img {
+      width: 100%;
+      display: block;
+    }
+    #custom-engraving .engraving-detail .engraving-style .engraving-options .engraving-option .option-label {
+      font-size: 14px;
+      text-align: center;
+      padding: 4px;
+      transition: all 0.2s ease-in-out;
+    }
+    #custom-engraving .engraving-detail .engraving-style .engraving-options .engraving-option:hover,
+    #custom-engraving .engraving-detail .engraving-style .engraving-options .engraving-option.selected {
+      border-color: #c19d68;
+    }
+    #custom-engraving .engraving-detail .engraving-style .engraving-options .engraving-option:hover .option-label,
+    #custom-engraving .engraving-detail .engraving-style .engraving-options .engraving-option.selected .option-label {
+      color: #fff;
+      background: #c19d68;
+    }
+    #custom-engraving .engraving-detail .engraving-text h4,
+    #custom-engraving .engraving-detail .engraving-text .h4 {
+      font-size: 15px;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+    #custom-engraving .engraving-detail .engraving-text input {
+      padding: 8px 10px;
+      min-height: inherit;
+      width: 100%;
+      margin-bottom: 5px;
+    }
+    #custom-engraving .engraving-detail .engraving-text .engraving-note {
+      font-style: italic;
+      font-size: 13px;
+    }
+  </style>
+{% endif %}

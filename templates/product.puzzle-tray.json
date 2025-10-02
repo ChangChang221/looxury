@@ -1,0 +1,446 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "text_q4Ycfb": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p><strong>Mô tả sản phẩm<br/></strong>Khám phá vẻ đẹp văn hoá vượt thời gian của Đông Á với Premium Mahjong Set, nơi những giá trị truyền thống gặp gỡ nghệ thuật thủ công đương đại. Lấy gốc nền văn hoá khu vực làm nguồn cảm hứng, Maztermind mang đến cho bạn sự hòa quyện giữa nét truyền thống và tính hiện đại cho một trải nghiệm chơi đầy tinh tế. </p>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "collapse_content": true
+          }
+        },
+        "collapsible_text_TkGtLt": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "title": "INSTALLATION INSTRUCTIONS",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "collapsible_text_qfENej": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "DIMENSIONS AND MATERIALS",
+            "content": "<ul><li><strong>Materials:</strong> Walnut Wood · Brass</li><li><strong>Dimensions: </strong>L320 x W200 x H35 mm</li><li><strong>Weight:</strong> 0.6 kg</li></ul>"
+          }
+        },
+        "collapsible_text_DQNNDV": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "CARE AND MAINTENANCE",
+            "content": "<p>To maintain the longevity and beauty of your Puzzle Tray, we recommend <strong>hand washing only</strong> using warm water, dish soap, and a soft sponge or cloth. For general cleaning, simply wipe with a damp cloth. To deodorize naturally, you may use lemon or vinegar.</p><p>Avoid soaking the tray in water or placing it in the dishwasher, as moisture can cause the wood to warp or crack. After cleaning, store the tray in a <strong>dry and ventilated place</strong>, standing it upright so both sides are able to breathe.</p><p>Strong detergents or abrasive materials should be avoided, as they may strip the protective mineral oil layer from the wood. Re-oil periodically if the surface appears dry.</p>"
+          }
+        },
+        "collapsible_text_fEBLdf": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "title": "SHIPPING AND WARRANTY",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "payment_terms",
+        "text_q4Ycfb",
+        "description",
+        "collapsible_text_TkGtLt",
+        "collapsible_text_qfENej",
+        "collapsible_text_DQNNDV",
+        "collapsible_text_fEBLdf",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "free_scroll",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "tabs_6iUy99": {
+      "type": "tabs",
+      "blocks": {
+        "tab_zKyXFg": {
+          "type": "tab",
+          "settings": {
+            "title": "Thông Tin Sản Phẩm",
+            "content": "<p><strong>Thành phần<br/></strong>- 1 hộp đựng<br/>- 4 khay đựng quân cờ<br/>- 148 quân cờ<br/>- 4 xúc xắc<br/>- 1 quân cờ gió<br/><br/><strong>Chất liệu<br/></strong>- Hộp đựng: Gỗ walnut, gỗ beech, nam châm<br/>- Khay đựng quân cờ: Gỗ beech, gỗ walnut<br/>- Quân cờ: Resin, gỗ beech, dung dịch resin pha nhũ đồng và nhũ bạc<br/>- Xúc xắc: Nhựa ABS<br/>- Quân cờ gió: Gỗ walnut, resin, da microfiber</p>",
+            "liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0353/9471/5692/files/components_-_PC_aa73cac6-c5c1-4176-8e4b-f190f3911891.jpg?v=1719053184\" class=\"hidden sm:block\" alt=\"Italian Trulli\">\n<img src=\"https://cdn.shopify.com/s/files/1/0353/9471/5692/files/components_-_mobile_1200x1200_copy.jpg?v=1719053185\" class=\"sm:hidden\" alt=\"Italian Trulli\">",
+            "page": ""
+          }
+        },
+        "tab_bnjDgi": {
+          "type": "tab",
+          "settings": {
+            "title": "Thông Số Kỹ Thuật",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0353/9471/5692/files/dimensions_-_PC_a65796b3-907f-47d7-af01-a9ed68be6841.jpg?v=1719053185\" class=\"hidden sm:block\" alt=\"Italian Trulli\">\n<img src=\"https://cdn.shopify.com/s/files/1/0353/9471/5692/files/dimensions_-_mobile_1200x1200_copy.jpg?v=1719053185\" class=\"sm:hidden\" alt=\"Italian Trulli\">",
+            "page": ""
+          }
+        },
+        "tab_bUcGEH": {
+          "type": "tab",
+          "settings": {
+            "title": "Hướng Dẫn Sử Dụng",
+            "content": "<p><strong>Chăm sóc sản phẩm:<br/></strong><a href=\"/pages/cham-soc-bảo-quản-sản-phẩm\" target=\"_blank\" title=\"Chăm sóc & bảo quản sản phẩm\"><em><strong>Nhấn vào đây</strong></em></a> để xem chi tiết hướng dẫn chăm sóc sản phẩm<br/> <br/><strong>Cách chơi: <br/></strong><a href=\"https://www.maztermind.vn/pages/how-to-play\" target=\"_blank\" title=\"https://www.maztermind.vn/pages/how-to-play\"><em><strong>Nhấn vào đây</strong></em></a> để xem chi tiết cách chơi</p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "tab_A93ijj": {
+          "type": "tab",
+          "settings": {
+            "title": "Chính Sách",
+            "content": "<p>Maztermind hỗ trợ dịch vụ GIAO HÀNG MIỄN PHÍ đến hầu hết các tỉnh thành. Ngoài ra, bạn có thể ĐỔI TRẢ MIỄN PHÍ sản phẩm trong vòng 30 ngày và chế độ bảo hành lên đến 12 tháng.<br/><br/>Vui lòng tham khảo tất cả các chính sách giao hàng và đổi trả của chúng tôi <a href=\"https://www.maztermind.vn/pages/chinh-sach-bao-hanh\"><em><strong>tại đây</strong></em></a>.<br/><br/>Nếu bạn có thắc mắc, đừng ngần ngại trò chuyện với chúng tôi hoặc gửi email tới customerservice@maztermind.vn.<br/></p>",
+            "liquid": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_zKyXFg",
+        "tab_bnjDgi",
+        "tab_bUcGEH",
+        "tab_A93ijj"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "images_with_text_scrolling_FWAGpq": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_krLpxp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/DSCF4370-1.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "ABOUT THIS PRODUCT",
+            "content": "<p>Feel the pure elegance of the Neo Minimal Lamp, where simplicity transforms into timeless artistry. Crafted primarily from beech wood, it showcases the natural grain and inviting warmth of this rustic yet sophisticated material. While the lamp’s clean lines and minimalist form allow the wood's character to take center stage, the standout feature—a Jesmonite lampshade ring—introduces a distinctive and artistic flair. By thoughtfully combining these exquisite materials, the Neo Minimal Lamp achieves a perfect harmony of classic charm and contemporary style. Striking and versatile, it illuminates any space with understated luxury, serving both as a functional piece and a statement of refined living.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_krLpxp"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "media_with_text_xhipbi": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_RzGhyc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/DSC09654-1_5eaca952-fb5f-46e8-951f-5e4fe6e3e53f.jpg",
+            "media_width": 45,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 44,
+            "subheading": "",
+            "title": "Sustainability in Its Most Elegant Form",
+            "content": "<p><strong>The Puzzle Tray is a modest revolution</strong> in form and intention. At first glance, it appears as <strong>a beautifully carved walnut tray </strong>with a <strong>warm tone, precise geometry, and polished brass inlay</strong>. This elegance conceals a deeper narrative of careful reuse and thoughtful design.<br/><br/>The Puzzle Collection- Dot, Plus, and Slash- is crafted using<strong> leftover walnut wood and reclaimed brass fragments</strong> once destined for disposal. By giving these materials a second life, each tray becomes a unique work of art, where grain, texture, and gleaming brass patterns transform waste into timeless design.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_text_2": "",
+            "link_url_2": "",
+            "background": "#fafafa",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_cWDG7p": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/DSC09650-1.jpg",
+            "media_width": 45,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 44,
+            "subheading": "",
+            "title": "Designed to Be Seen, Made to Be Used",
+            "content": "<p>More than a decorative object, the Puzzle Tray is designed to be handled and admired. Its compact proportions make it the ideal platform for your morning coffee, your favorite watch, a set of keys by the door, or simply as a piece of art on your shelf.</p><p>The visual appeal lies in the contrast: rich <strong>walnut wood</strong>, cut and joined with precision, paired with carefully <strong>inlaid brass details</strong> that shimmer gently against the organic surface. Each inlay is placed by hand using laser-cut techniques for exceptional accuracy, while the wood’s natural grain is enhanced through a smooth mineral oil finish and anti-mold seal.</p><h3></h3>",
+            "link_text": "",
+            "link_url": "",
+            "link_text_2": "",
+            "link_url_2": "",
+            "background": "#fafafa",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_AXNjG6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/DSC09656-1.jpg",
+            "media_width": 45,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 44,
+            "subheading": "",
+            "title": "A Statement of Intent",
+            "content": "<p>The Puzzle Tray is distinctive not only for its refined appearance, but for what it embodies. At its core lies a thoughtful design philosophy: waste less, design better—transforming walnut wood once considered too uneven in hue and brass fragments too small for conventional use into something enduring.<br/><br/>Each piece carries its own subtle individuality, shaped both by the reclaimed materials and the handcrafting process. The result is a tray that makes a quiet yet striking statement in any home, celebrating function, embracing imperfection, and elevating sustainability into a timeless design.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_text_2": "",
+            "link_url_2": "",
+            "background": "#fafafa",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_RzGhyc",
+        "image_cWDG7p",
+        "image_AXNjG6"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "image_link_blocks_c3aHbH": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_BEMiAa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/il_1140xN.4953122013_ryl1_3049badb-c259-47e4-9674-8b9866a6ca4a.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_BDLmPr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-6_db523632-295e-43b0-8d74-a6b28baa4fda.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_wpxB64": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-3_98ac67f5-7f4c-4f34-81d4-107fcf491cde.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_e37FPa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-4_53a43348-cdd6-4a45-9dc4-79e6ece54892.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_HtAMJw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/table_lamps.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_BEMiAa",
+        "item_BDLmPr",
+        "item_wpxB64",
+        "item_e37FPa",
+        "item_HtAMJw"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "block_size": "Xlarge",
+        "subheading": "",
+        "title": "Customer spotlight",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 6,
+        "subheading": "",
+        "title": "Related product",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "tabs_6iUy99",
+    "images_with_text_scrolling_FWAGpq",
+    "media_with_text_xhipbi",
+    "image_link_blocks_c3aHbH",
+    "related-products"
+  ]
+}

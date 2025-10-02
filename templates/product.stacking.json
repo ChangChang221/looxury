@@ -1,0 +1,285 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "collapse_content": true
+          }
+        },
+        "collapsible_text_qfENej": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "DIMENSIONS & MATEIALS",
+            "content": "<ul><li><strong>Materials: </strong>Matte white glass, Beech wood, Walnut wood, Resin</li><li><strong>Dimensions</strong>: L230mm x W120mm x H270mm</li><li><strong>WEIGHT : </strong>1.16kg</li></ul>"
+          }
+        },
+        "collapsible_text_TkGtLt": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "COMPONENTS /PACKAGE INCLUDES",
+            "content": "<p>Lampshape: Glass Globe Shade, D10cmQty: 2pcs</p><p>Bulb: Led G9, 5W 85-265VQty: 2pcs</p><p>Cable: fabric, grey, L200cm</p><p>Plug: type A</p>"
+          }
+        },
+        "collapsible_text_DQNNDV": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "CARE AND MAINTENANCE",
+            "content": "<p>Dust with a soft, dry cloth or wipe with cloth dampened in mild cleaner only.</p><p>Strong cleaning agents should be avoided so as not to damage wood oil/stain.</p><p>Avoid placing product in direct sunlight, extreme heat or humidity.</p>"
+          }
+        },
+        "collapsible_text_fEBLdf": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "USER MANUAL",
+            "content": "<p>This product is suitable for indoor use only. Keep product and cable out of reach of children. Place product on flat, even surface only.If the cord is damaged, it must be replaced by the manufacturer or qualified technician to avoid any safety hazard.</p>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "payment_terms",
+        "description",
+        "collapsible_text_qfENej",
+        "collapsible_text_TkGtLt",
+        "collapsible_text_DQNNDV",
+        "collapsible_text_fEBLdf",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "free_scroll",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "images_with_text_scrolling_FWAGpq": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_krLpxp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/DSCF4267-1.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "ABOUT THIS PRODUCT",
+            "content": "<p>Feel the pure elegance of the Neo Minimal Lamp, where simplicity transforms into timeless artistry. Crafted primarily from beech wood, it showcases the natural grain and inviting warmth of this rustic yet sophisticated material. While the lamp’s clean lines and minimalist form allow the wood's character to take center stage, the standout feature—a Jesmonite lampshade ring—introduces a distinctive and artistic flair. By thoughtfully combining these exquisite materials, the Neo Minimal Lamp achieves a perfect harmony of classic charm and contemporary style. Striking and versatile, it illuminates any space with understated luxury, serving both as a functional piece and a statement of refined living.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_krLpxp"
+      ],
+      "settings": {
+        "full_width": false,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "image_link_blocks_c3aHbH": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_BEMiAa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/il_1140xN.4953122013_ryl1_3049badb-c259-47e4-9674-8b9866a6ca4a.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_BDLmPr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-6_db523632-295e-43b0-8d74-a6b28baa4fda.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_wpxB64": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-3_98ac67f5-7f4c-4f34-81d4-107fcf491cde.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_e37FPa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-4_53a43348-cdd6-4a45-9dc4-79e6ece54892.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_HtAMJw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/table_lamps.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_BEMiAa",
+        "item_BDLmPr",
+        "item_wpxB64",
+        "item_e37FPa",
+        "item_HtAMJw"
+      ],
+      "settings": {
+        "full_width": true,
+        "block_size": "Xlarge",
+        "subheading": "",
+        "title": "Customer spotlight",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 6,
+        "subheading": "",
+        "title": "Related product",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "images_with_text_scrolling_FWAGpq",
+    "image_link_blocks_c3aHbH",
+    "related-products"
+  ]
+}

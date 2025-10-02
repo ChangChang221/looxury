@@ -1,0 +1,413 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "slideshow_kyCk49": {
+      "type": "slideshow",
+      "blocks": {
+        "image_MYVfX4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/about_us_-_5.jpg",
+            "mobile_image": "shopify://shop_images/about_us_-_6.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "At Looxury, we remain committed to what truly matters—design that withstands the test of time. Not driven by fleeting trends, we focus on creating home decor that blends functionality with timeless beauty, enhancing both your space and life.",
+            "title": "ABOUT US",
+            "heading_tag": "h3",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_MYVfX4"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
+    "media_with_title_E8YUAN": {
+      "type": "media-with-title",
+      "blocks": {
+        "image_QWbr4n": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Our_workshop_2.jpg",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Designed for Purpose",
+            "content": "<p>Every Looxury product is artfully designed by our passionate and imaginative designers. We believe design is a journey—one that evolves, surprises, and continually exceeds expectations. We find beauty in the everyday, transforming simple elements into extraordinary pieces that complete the unique aesthetic of your home. Inspired by Neo-Classic and Mid-Century design, we balance timeless sophistication and modern refinement, delivering home decor that enriches your space for years to come.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_am9HXk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Timeless_craftsmanship_1.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Form Meets Function",
+            "content": "<p>Beyond our focus on timeless aesthetics, we equally prioritize functionality in every piece we create. Home decor should do more than look good; it has to effortlessly serve its purpose to make your everyday life more enjoyable. From lighting that adjusts to your preferences to versatile kitchen and work essentials, each Looxury product is thoughtfully designed with your needs at its core, embodying the perfect balance of form and function.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_DtxNJx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Timeless_craftsmanship_2.jpg",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Timeless Craftsmanship",
+            "content": "<p>At the heart of Looxury is an unwavering dedication to craftsmanship, where every detail reflects our passion, precision, and pride. From sourcing the finest materials to the meticulous touches of our artisans, we pour care into every edge, every finish, and every unexpected combination of materials—jesmonite, resin, wood, brass, and more. Our creations push boundaries with unconventional shapes and mechanisms, blending artistry and functionality at the highest level.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "video_89BPwr": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "external_video_url": "",
+            "poster_image": "shopify://shop_images/about_us_-_1.jpg",
+            "autoplay": true,
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<p>Looxury a canvas for personal expression, a celebration of craftsmanship, and an exploration of <br/>design’s power to transform spaces. Born from a vision to merge luxury with individuality, <br/>Looxury invites you to experience design that resonates deeply with personal style and meaning.<br/></p>",
+            "link_text": "AUTHENTIC DESIGN",
+            "link_url": "#",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "video_fTy8Vb": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "external_video_url": "",
+            "autoplay": true,
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<p>Every piece crafted in Looxury’s studio is a testament to our commitment to authenticity and <br/>exceptional artistry. Our designers pour themselves into each creation, blending traditional <br/>techniques with modern aesthetics, ensuring that every item—whether a piece of furniture or a <br/>decorative object—becomes a statement of identity.<br/></p>",
+            "link_text": "FUNCTIONALITY",
+            "link_url": "#",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "video_U4T8Uy": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "external_video_url": "",
+            "autoplay": true,
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<p>Rooted in the philosophy that beauty and refinement should be accessible, Looxury combines <br/>high-end design aesthetics with an affordable approach, making luxurious living attainable. Each <br/>piece is crafted with meticulous attention to detail, blending sophisticated materials and timeless <br/>design, ensuring that every item embodies elegance, comfort, and quality<br/></p>",
+            "link_text": "OUR WORKSHOP",
+            "link_url": "#",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "video_Vtq9PE": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "external_video_url": "",
+            "autoplay": true,
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<p>Looxury transforms homes with a touch of affordable luxury, empowering individuals to create <br/>spaces that reflect their personal style without compromise.<br/></p>",
+            "link_text": "CRAFTSMANSHIP",
+            "link_url": "#",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_QWbr4n",
+        "image_am9HXk",
+        "image_DtxNJx",
+        "video_89BPwr",
+        "video_fTy8Vb",
+        "video_U4T8Uy",
+        "video_Vtq9PE"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "none"
+      }
+    },
+    "media_with_title_cEWece": {
+      "type": "media-with-title",
+      "blocks": {
+        "image_gpb7hK": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "video_tcUxt7": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay": true,
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "Authentic design",
+            "link_url": "#",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_gpb7hK",
+        "video_tcUxt7"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "spacing": "none"
+      }
+    },
+    "media_with_title_ThEVxa": {
+      "type": "media-with-title",
+      "blocks": {
+        "video_AHqMyE": {
+          "type": "video",
+          "settings": {
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay": true,
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "Our workshop",
+            "link_url": "#",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_AHqMyE"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "spacing": "none"
+      }
+    },
+    "media_with_title_mJkfEe": {
+      "type": "media-with-title",
+      "blocks": {
+        "video_hEyYzR": {
+          "type": "video",
+          "settings": {
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay": true,
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "Craftsmanship",
+            "link_url": "#",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_hEyYzR"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "spacing": "none"
+      }
+    },
+    "newsletter_L3TtyD": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "show_icon": false,
+        "title": "Keep updated/////",
+        "content": "",
+        "button_text": "Subscribe",
+        "subtext": "",
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "custom_html_bAf34U": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<p style=\"text-align: center\">Long text for SEO</p>",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_kyCk49",
+    "media_with_title_E8YUAN",
+    "media_with_title_cEWece",
+    "media_with_title_ThEVxa",
+    "media_with_title_mJkfEe",
+    "newsletter_L3TtyD",
+    "custom_html_bAf34U"
+  ]
+}

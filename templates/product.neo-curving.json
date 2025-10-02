@@ -1,0 +1,384 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "text_jinc8e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Crafted from walnut wood and featuring a unique Jesmonite lampshade ring, the Neo Curving Lamp blends rustic charm with a modern twist. Its uniquely curving lines exude dynamic elegance, making it a striking and adaptable lighting solution for any space.</p>"
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true
+          }
+        },
+        "collapsible_text_qfENej": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "title": "SPECIFICATIONS",
+            "content": "<p>Feel the pure elegance of the Neo Minimal Lamp, where simplicity transforms into timeless artistry. Crafted primarily from beech wood, it showcases the natural grain and inviting warmth of this rustic yet sophisticated material. While the lamp’s clean lines and minimalist form allow the wood's character to take center stage, the standout feature—a Jesmonite lampshade ring—introduces a distinctive and artistic flair. By thoughtfully combining these exquisite materials, the Neo Minimal Lamp achieves a perfect harmony of classic charm and contemporary style. Striking and versatile, it illuminates any space with understated luxury, serving both as a functional piece and a statement of refined living.</p>"
+          }
+        },
+        "collapsible_text_DQNNDV": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "title": "CARE AND MAINTENANCE",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "collapsible_text_fEBLdf": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "title": "SHIPPING AND WARRANTY",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "collapsible_text_TkGtLt": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "title": "INSTALLATION INSTRUCTIONS",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "text_jinc8e",
+        "payment_terms",
+        "description",
+        "collapsible_text_qfENej",
+        "collapsible_text_DQNNDV",
+        "collapsible_text_fEBLdf",
+        "collapsible_text_TkGtLt",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "free_scroll",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "tabs_6iUy99": {
+      "type": "tabs",
+      "blocks": {
+        "tab_zKyXFg": {
+          "type": "tab",
+          "settings": {
+            "title": "Specifications",
+            "content": "",
+            "liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0680/3747/6492/files/150125_-_Specifications_-_Neo_curving-PC_3_1.jpg?v=1738685051\" class=\"hidden sm:block\" alt=\"Italian Trulli\">\n<img src=\"https://cdn.shopify.com/s/files/1/0680/3747/6492/files/150125_-_Specifications_-_Neo_curving-mobi.jpg?v=1738685041\" class=\"sm:hidden\" alt=\"Italian Trulli\">",
+            "page": ""
+          }
+        },
+        "tab_bnjDgi": {
+          "type": "tab",
+          "settings": {
+            "title": "Materials",
+            "content": "",
+            "liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0680/3747/6492/files/150125_-_MATERIAL_-_Neo_curving-PC_3.jpg?v=1738685165\" class=\"hidden sm:block\" alt=\"Italian Trulli\">\n<img src=\"https://cdn.shopify.com/s/files/1/0680/3747/6492/files/150125_-_MATERIAL-_Neo_curving-mobi.jpg?v=1738685166\" class=\"sm:hidden\" alt=\"Italian Trulli\">",
+            "page": ""
+          }
+        },
+        "tab_bUcGEH": {
+          "type": "tab",
+          "settings": {
+            "title": "User Manual",
+            "content": "",
+            "liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0680/3747/6492/files/150125_-_MANUAL-_Neo_curving-PC_3.jpg?v=1738685277\" class=\"hidden sm:block\" alt=\"Italian Trulli\">\n<img src=\"https://cdn.shopify.com/s/files/1/0680/3747/6492/files/150125_-_MANUAL-_Neo_curving-mobi.jpg?v=1738685276\" class=\"sm:hidden\" alt=\"Italian Trulli\">",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_zKyXFg",
+        "tab_bnjDgi",
+        "tab_bUcGEH"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "images_with_text_scrolling_FWAGpq": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_krLpxp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/neo_curving_4.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "ABOUT THIS PRODUCT",
+            "content": "<p>Feel the pure elegance of the Neo Curving Lamp, where simplicity transforms into timeless artistry. Crafted primarily from walnut wood, the lamp highlights the natural beauty of this rustic material, while its uniquely curving lines exude dynamic elegance, making it a captivating centerpiece that commands attention. What truly sets the Neo Curving Lamp apart is its Jesmonite lampshade ring—a distinctive detail that adds character and individuality. <br/><br/>Thoughtfully combining exquisite materials, the Neo Curving Lamp achieves a perfect harmony of classic charm and contemporary style. Striking and versatile, it illuminates any space with understated luxury, serving as both a functional piece and a statement of refined living.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_krLpxp"
+      ],
+      "settings": {
+        "full_width": false,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "image_link_blocks_c3aHbH": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_BEMiAa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/il_1140xN.4953122013_ryl1_3049badb-c259-47e4-9674-8b9866a6ca4a.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_BDLmPr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-6_db523632-295e-43b0-8d74-a6b28baa4fda.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_wpxB64": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-3_98ac67f5-7f4c-4f34-81d4-107fcf491cde.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_e37FPa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-4_53a43348-cdd6-4a45-9dc4-79e6ece54892.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_HtAMJw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/table_lamps.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_BEMiAa",
+        "item_BDLmPr",
+        "item_wpxB64",
+        "item_e37FPa",
+        "item_HtAMJw"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "block_size": "Xlarge",
+        "subheading": "",
+        "title": "Customer spotlight",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 6,
+        "subheading": "",
+        "title": "Related product",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "newsletter_zmxQWq": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "show_icon": false,
+        "title": "Keep updated/////",
+        "content": "",
+        "button_text": "Subscribe",
+        "subtext": "",
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "custom_html_BPtYBE": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<p style=\"text-align: center\">Long text for SEO</p>",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "tabs_6iUy99",
+    "images_with_text_scrolling_FWAGpq",
+    "image_link_blocks_c3aHbH",
+    "related-products",
+    "newsletter_zmxQWq",
+    "custom_html_BPtYBE"
+  ]
+}

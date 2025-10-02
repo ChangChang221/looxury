@@ -1,0 +1,463 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "text_q4Ycfb": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p><strong>Mô tả sản phẩm<br/></strong>Khám phá vẻ đẹp văn hoá vượt thời gian của Đông Á với Premium Mahjong Set, nơi những giá trị truyền thống gặp gỡ nghệ thuật thủ công đương đại. Lấy gốc nền văn hoá khu vực làm nguồn cảm hứng, Maztermind mang đến cho bạn sự hòa quyện giữa nét truyền thống và tính hiện đại cho một trải nghiệm chơi đầy tinh tế. </p>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "collapse_content": true
+          }
+        },
+        "collapsible_text_qfENej": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "MATERIALS & DIMENSIONS",
+            "content": "<ul><li><strong>Material:</strong> Ash Wood · Cement · Cork Base</li><li><strong>Dimensions:</strong> L100 x W100 x H40 mm (L3.9 x W1.6 x H5.1 in)</li><li><strong>Weight:</strong> 0.3kg</li></ul>"
+          }
+        },
+        "collapsible_text_DQNNDV": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "CARE AND MAINTENANCE",
+            "content": "<p>– Hand wash only with a soft sponge or cloth, warm water, and mild dish soap; deodorize with lemon or vinegar if needed.<br/><br/>– Wipe the serving tray with a warm, damp cloth.<br/><br/>– Store the tray in a dry place, standing upright so both the top and bottom surfaces can stay ventilated and dry.<br/><br/>– Do not soak in water or put in the dishwasher, as this may cause cracking or mold.<br/><br/>– Avoid harsh detergents, which can strip away the protective mineral oil finish on the wood surface.</p>"
+          }
+        },
+        "collapsible_text_TkGtLt": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "title": "INSTALLATION INSTRUCTIONS",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "collapsible_text_fEBLdf": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "title": "SHIPPING AND WARRANTY",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "payment_terms",
+        "text_q4Ycfb",
+        "description",
+        "collapsible_text_qfENej",
+        "collapsible_text_DQNNDV",
+        "collapsible_text_TkGtLt",
+        "collapsible_text_fEBLdf",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "free_scroll",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "tabs_6iUy99": {
+      "type": "tabs",
+      "blocks": {
+        "tab_zKyXFg": {
+          "type": "tab",
+          "settings": {
+            "title": "Thông Tin Sản Phẩm",
+            "content": "<p><strong>Thành phần<br/></strong>- 1 hộp đựng<br/>- 4 khay đựng quân cờ<br/>- 148 quân cờ<br/>- 4 xúc xắc<br/>- 1 quân cờ gió<br/><br/><strong>Chất liệu<br/></strong>- Hộp đựng: Gỗ walnut, gỗ beech, nam châm<br/>- Khay đựng quân cờ: Gỗ beech, gỗ walnut<br/>- Quân cờ: Resin, gỗ beech, dung dịch resin pha nhũ đồng và nhũ bạc<br/>- Xúc xắc: Nhựa ABS<br/>- Quân cờ gió: Gỗ walnut, resin, da microfiber</p>",
+            "liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0353/9471/5692/files/components_-_PC_aa73cac6-c5c1-4176-8e4b-f190f3911891.jpg?v=1719053184\" class=\"hidden sm:block\" alt=\"Italian Trulli\">\n<img src=\"https://cdn.shopify.com/s/files/1/0353/9471/5692/files/components_-_mobile_1200x1200_copy.jpg?v=1719053185\" class=\"sm:hidden\" alt=\"Italian Trulli\">",
+            "page": ""
+          }
+        },
+        "tab_bnjDgi": {
+          "type": "tab",
+          "settings": {
+            "title": "Thông Số Kỹ Thuật",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0353/9471/5692/files/dimensions_-_PC_a65796b3-907f-47d7-af01-a9ed68be6841.jpg?v=1719053185\" class=\"hidden sm:block\" alt=\"Italian Trulli\">\n<img src=\"https://cdn.shopify.com/s/files/1/0353/9471/5692/files/dimensions_-_mobile_1200x1200_copy.jpg?v=1719053185\" class=\"sm:hidden\" alt=\"Italian Trulli\">",
+            "page": ""
+          }
+        },
+        "tab_bUcGEH": {
+          "type": "tab",
+          "settings": {
+            "title": "Hướng Dẫn Sử Dụng",
+            "content": "<p><strong>Chăm sóc sản phẩm:<br/></strong><a href=\"/pages/cham-soc-bảo-quản-sản-phẩm\" target=\"_blank\" title=\"Chăm sóc & bảo quản sản phẩm\"><em><strong>Nhấn vào đây</strong></em></a> để xem chi tiết hướng dẫn chăm sóc sản phẩm<br/> <br/><strong>Cách chơi: <br/></strong><a href=\"https://www.maztermind.vn/pages/how-to-play\" target=\"_blank\" title=\"https://www.maztermind.vn/pages/how-to-play\"><em><strong>Nhấn vào đây</strong></em></a> để xem chi tiết cách chơi</p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "tab_A93ijj": {
+          "type": "tab",
+          "settings": {
+            "title": "Chính Sách",
+            "content": "<p>Maztermind hỗ trợ dịch vụ GIAO HÀNG MIỄN PHÍ đến hầu hết các tỉnh thành. Ngoài ra, bạn có thể ĐỔI TRẢ MIỄN PHÍ sản phẩm trong vòng 30 ngày và chế độ bảo hành lên đến 12 tháng.<br/><br/>Vui lòng tham khảo tất cả các chính sách giao hàng và đổi trả của chúng tôi <a href=\"https://www.maztermind.vn/pages/chinh-sach-bao-hanh\"><em><strong>tại đây</strong></em></a>.<br/><br/>Nếu bạn có thắc mắc, đừng ngần ngại trò chuyện với chúng tôi hoặc gửi email tới customerservice@maztermind.vn.<br/></p>",
+            "liquid": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_zKyXFg",
+        "tab_bnjDgi",
+        "tab_bUcGEH",
+        "tab_A93ijj"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "images_with_text_scrolling_FWAGpq": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_krLpxp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/DSCF4370-1.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "ABOUT THIS PRODUCT",
+            "content": "<p>Feel the pure elegance of the Neo Minimal Lamp, where simplicity transforms into timeless artistry. Crafted primarily from beech wood, it showcases the natural grain and inviting warmth of this rustic yet sophisticated material. While the lamp’s clean lines and minimalist form allow the wood's character to take center stage, the standout feature—a Jesmonite lampshade ring—introduces a distinctive and artistic flair. By thoughtfully combining these exquisite materials, the Neo Minimal Lamp achieves a perfect harmony of classic charm and contemporary style. Striking and versatile, it illuminates any space with understated luxury, serving both as a functional piece and a statement of refined living.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_krLpxp"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "media_with_text_KUq4RD": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_BQJtnR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/489522449_1763305681174064_2772329143679260218_n.jpg",
+            "media_width": 40,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Quietly Playful, Subtly Bold",
+            "content": "<p>The POOL ASHTRAY is more than a resting place; it is an object of quiet intrigue. Created for those who value individuality and the beauty of small surprises, it balances function with sculptural design. The stair-stepped lid is not only a playful architectural detail but also a practical feature that invites touch and interaction.<br/><br/>Placed on a side table, a desk, or even a bookshelf, it becomes more than an ashtray. It carries presence, character, and craft, turning an everyday object into a subtle statement of design.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_text_2": "",
+            "link_url_2": "",
+            "background": "#fafafa",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_jcd8qi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/489919052_1763305684507397_5396955114798891356_n.jpg",
+            "media_width": 40,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "From Mold to Masterpiece",
+            "content": "<p>The <em><strong>POOL ASHTRAY</strong></em> is shaped through precision and care. The tray is cast from a custom mold using a balanced cement blend, pressurized to remove air bubbles, and then hand-sanded to achieve a smooth, durable finish. It is completed with a natural cork base.<br/><br/>Its wooden lid is crafted from solid natural wood, carefully carved, polished, and treated to highlight the grain and ensure lasting protection. What looks simple is the result of refined technique, turning an everyday object into a piece of quiet design.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_text_2": "",
+            "link_url_2": "",
+            "background": "#fafafa",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_RfmkUW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/525505569_1858157515022213_202096357421891206_n.jpg",
+            "media_width": 40,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Designed to Be More Than What It Is",
+            "content": "<p>The<em><strong> POOL ASHTRAY</strong></em> is crafted for those who appreciate objects that transcend function. With the contrast of cool cement, warm wood, and soft cork, it carries the presence of a miniature architectural piece, an everyday essential elevated into quiet design. A subtle pause in your day, and a gentle reminder that form and art can live beautifully together.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_text_2": "",
+            "link_url_2": "",
+            "background": "#fafafa",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_BQJtnR",
+        "image_jcd8qi",
+        "image_RfmkUW"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "image_link_blocks_c3aHbH": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_BEMiAa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/il_1140xN.4953122013_ryl1_3049badb-c259-47e4-9674-8b9866a6ca4a.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_BDLmPr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-6_db523632-295e-43b0-8d74-a6b28baa4fda.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_wpxB64": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-3_98ac67f5-7f4c-4f34-81d4-107fcf491cde.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_e37FPa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-4_53a43348-cdd6-4a45-9dc4-79e6ece54892.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_HtAMJw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/table_lamps.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_BEMiAa",
+        "item_BDLmPr",
+        "item_wpxB64",
+        "item_e37FPa",
+        "item_HtAMJw"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "block_size": "Xlarge",
+        "subheading": "",
+        "title": "Customer spotlight",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 6,
+        "subheading": "",
+        "title": "Related product",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "newsletter_zmxQWq": {
+      "type": "newsletter",
+      "settings": {
+        "full_width": false,
+        "show_icon": false,
+        "title": "",
+        "content": "",
+        "button_text": "Subscribe",
+        "subtext": "",
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "tabs_6iUy99",
+    "images_with_text_scrolling_FWAGpq",
+    "media_with_text_KUq4RD",
+    "image_link_blocks_c3aHbH",
+    "related-products",
+    "newsletter_zmxQWq"
+  ]
+}

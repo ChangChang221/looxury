@@ -1,0 +1,372 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "text_q4Ycfb": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p><strong>Mô tả sản phẩm<br/></strong>Khám phá vẻ đẹp văn hoá vượt thời gian của Đông Á với Premium Mahjong Set, nơi những giá trị truyền thống gặp gỡ nghệ thuật thủ công đương đại. Lấy gốc nền văn hoá khu vực làm nguồn cảm hứng, Maztermind mang đến cho bạn sự hòa quyện giữa nét truyền thống và tính hiện đại cho một trải nghiệm chơi đầy tinh tế. </p>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "collapse_content": true
+          }
+        },
+        "collapsible_text_qfENej": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "DIMESIONS & WEIGHT",
+            "content": "<p><strong>Materials:</strong> Beech Wood · Walnut Wood · Brass · Magnet<br/><br/><strong>Dimensions:</strong></p><p><strong>Overall</strong> – L600 x W230 x H470 mm<br/>(L23.6 x W9.1 x H18.5 in)</p><p><strong>Weight:</strong> 10.5kg</p>"
+          }
+        },
+        "collapsible_text_DQNNDV": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "CARE AND MAINTENANCE",
+            "content": "<p>Clean the tray with a <strong>soft,</strong> lightly moistened <strong>cloth</strong>, then <strong>dry it immediately</strong> to preserve the natural beauty of the wood and brass accents. Avoid abrasive sponges, harsh chemicals, or soaking in water, as these may damage the finish. For lasting durability, keep the tray away from direct sunlight, high humidity, and excessive heat, which may cause <strong>warping or discoloration</strong> over time.</p><p>For wall-mounted cabinets, load capacity depends on the type of wall material. Concrete or brick walls can support greater weight than plaster. The product is designed solely for storage and should <strong>not be used as seating</strong> to prevent accidents. If the included screws or plugs are not compatible with your wall, seek <strong>professional guidance</strong> to ensure safe and proper installation.</p>"
+          }
+        },
+        "collapsible_text_TkGtLt": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "title": "INSTALLATION INSTRUCTIONS",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "collapsible_text_fEBLdf": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "title": "SHIPPING AND WARRANTY",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "payment_terms",
+        "text_q4Ycfb",
+        "description",
+        "collapsible_text_qfENej",
+        "collapsible_text_DQNNDV",
+        "collapsible_text_TkGtLt",
+        "collapsible_text_fEBLdf",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "free_scroll",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "tabs_6iUy99": {
+      "type": "tabs",
+      "blocks": {
+        "tab_zKyXFg": {
+          "type": "tab",
+          "settings": {
+            "title": "Thông Tin Sản Phẩm",
+            "content": "<p><strong>Thành phần<br/></strong>- 1 hộp đựng<br/>- 4 khay đựng quân cờ<br/>- 148 quân cờ<br/>- 4 xúc xắc<br/>- 1 quân cờ gió<br/><br/><strong>Chất liệu<br/></strong>- Hộp đựng: Gỗ walnut, gỗ beech, nam châm<br/>- Khay đựng quân cờ: Gỗ beech, gỗ walnut<br/>- Quân cờ: Resin, gỗ beech, dung dịch resin pha nhũ đồng và nhũ bạc<br/>- Xúc xắc: Nhựa ABS<br/>- Quân cờ gió: Gỗ walnut, resin, da microfiber</p>",
+            "liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0353/9471/5692/files/components_-_PC_aa73cac6-c5c1-4176-8e4b-f190f3911891.jpg?v=1719053184\" class=\"hidden sm:block\" alt=\"Italian Trulli\">\n<img src=\"https://cdn.shopify.com/s/files/1/0353/9471/5692/files/components_-_mobile_1200x1200_copy.jpg?v=1719053185\" class=\"sm:hidden\" alt=\"Italian Trulli\">",
+            "page": ""
+          }
+        },
+        "tab_bnjDgi": {
+          "type": "tab",
+          "settings": {
+            "title": "Thông Số Kỹ Thuật",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0353/9471/5692/files/dimensions_-_PC_a65796b3-907f-47d7-af01-a9ed68be6841.jpg?v=1719053185\" class=\"hidden sm:block\" alt=\"Italian Trulli\">\n<img src=\"https://cdn.shopify.com/s/files/1/0353/9471/5692/files/dimensions_-_mobile_1200x1200_copy.jpg?v=1719053185\" class=\"sm:hidden\" alt=\"Italian Trulli\">",
+            "page": ""
+          }
+        },
+        "tab_bUcGEH": {
+          "type": "tab",
+          "settings": {
+            "title": "Hướng Dẫn Sử Dụng",
+            "content": "<p><strong>Chăm sóc sản phẩm:<br/></strong><a href=\"/pages/cham-soc-bảo-quản-sản-phẩm\" target=\"_blank\" title=\"Chăm sóc & bảo quản sản phẩm\"><em><strong>Nhấn vào đây</strong></em></a> để xem chi tiết hướng dẫn chăm sóc sản phẩm<br/> <br/><strong>Cách chơi: <br/></strong><a href=\"https://www.maztermind.vn/pages/how-to-play\" target=\"_blank\" title=\"https://www.maztermind.vn/pages/how-to-play\"><em><strong>Nhấn vào đây</strong></em></a> để xem chi tiết cách chơi</p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "tab_A93ijj": {
+          "type": "tab",
+          "settings": {
+            "title": "Chính Sách",
+            "content": "<p>Maztermind hỗ trợ dịch vụ GIAO HÀNG MIỄN PHÍ đến hầu hết các tỉnh thành. Ngoài ra, bạn có thể ĐỔI TRẢ MIỄN PHÍ sản phẩm trong vòng 30 ngày và chế độ bảo hành lên đến 12 tháng.<br/><br/>Vui lòng tham khảo tất cả các chính sách giao hàng và đổi trả của chúng tôi <a href=\"https://www.maztermind.vn/pages/chinh-sach-bao-hanh\"><em><strong>tại đây</strong></em></a>.<br/><br/>Nếu bạn có thắc mắc, đừng ngần ngại trò chuyện với chúng tôi hoặc gửi email tới customerservice@maztermind.vn.<br/></p>",
+            "liquid": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_zKyXFg",
+        "tab_bnjDgi",
+        "tab_bUcGEH",
+        "tab_A93ijj"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "images_with_text_scrolling_FWAGpq": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_krLpxp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/lxr-social-post-T7-summer-camp-ig-4_1.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Minimal Form, Maximal Intention.",
+            "content": "<p><em>In a world full of clutter, the Squarish Tray Set invites calm. With its clean lines, deep black terrazzo surface, and warm walnut base, this handcrafted set is designed to bring clarity and intention to your space—whether it sits on a hallway table collecting keys, or on your desk organizing essentials. More than just storage, it’s a quiet celebration of material, balance, and craft.</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_krLpxp"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "media_with_text_UECKyB": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_HKcPaH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/491923768_1769603467210952_1378658249792157856_n.jpg",
+            "media_width": 40,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "The Bar That Floats — Quietly Bold",
+            "content": "<p>The<em><strong> FLOATING BAR CABINET</strong></em> is where function meets ritual, designed to transform the simple act of pouring a drink into a quiet moment of luxury. Closed, it rests against the wall with a clean silhouette, warm wood tones, and subtle brass details, appearing weightless and understated. Open, and it reveals a stage for bottles, glasses, and keepsakes, turning storage into a curated display.<br/></p>",
+            "link_text": "",
+            "link_url": "",
+            "link_text_2": "",
+            "link_url_2": "",
+            "background": "#fafafa",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_PLzyjm": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/z6876117245306_439aac2f82dc8f364261561b2f67104e.jpg",
+            "media_width": 35,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "The Beauty of Craftsmanship",
+            "content": "<p><em>What makes the BRICK PEN HOLDER truly unique is the care taken in each individual step. Jesmonite casting is both an art and a science. To achieve its signature surface, each mold is thoroughly cleaned between uses, the material mixed to eliminate clumps and inconsistencies, and every bit of air carefully extracted through vibration or pressure. This results in a seamless, polished finish with no compromises.</em></p><p></p>",
+            "link_text": "",
+            "link_url": "",
+            "link_text_2": "",
+            "link_url_2": "",
+            "background": "#fafafa",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_rdmd8E": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/503803050_1810915369746428_5066833417174220200_n.jpg",
+            "media_width": 45,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "A Home for Spirits and Stories",
+            "content": "<p>The <em><strong>FLOATING BAR CABINET</strong></em> is more than furniture; it is a companion to the quiet rhythms of daily life. It is there when you pause at your desk after a long day, pouring a glass to reset and breathe. It gathers people closer around the dining table, turning a simple drink into an intimate exchange. It waits in a private corner, ready for those evening rituals you keep only for yourself.</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_text_2": "",
+            "link_url_2": "",
+            "background": "#fafafa",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_HKcPaH",
+        "image_PLzyjm",
+        "image_rdmd8E"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 6,
+        "subheading": "",
+        "title": "Related product",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "newsletter_zmxQWq": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "show_icon": false,
+        "title": "Keep updated",
+        "content": "",
+        "button_text": "Subscribe",
+        "subtext": "",
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "tabs_6iUy99",
+    "images_with_text_scrolling_FWAGpq",
+    "media_with_text_UECKyB",
+    "related-products",
+    "newsletter_zmxQWq"
+  ]
+}
