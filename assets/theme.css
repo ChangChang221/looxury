@@ -8659,7 +8659,7 @@ split-lines {
   justify-items: var(--text-with-icons-justify);
   padding-inline-start: var(--spacing-6);
   padding-inline-end: var(--spacing-6);
-  display: grid;
+  display: flex;
 }
 
 @media screen and (min-width: 1000px) {
