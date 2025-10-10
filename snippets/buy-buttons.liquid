@@ -36,7 +36,7 @@ Supported variables
   {%- assign button_size = button_size | default: 'xl' -%}
 
   {%- if product.selected_or_first_available_variant.available -%}
-    {%- if product.template_suffix contains 'pre-order' -%}
+    {%- if product.template_suffix contains 'pre-order' or product.selected_or_first_available_variant.inventory_quantity <= 0 -%}
       {%- capture button_content -%}{{ 'product.general.pre_order_button' | t }}{%- endcapture -%}
     {%- else -%}
       {%- capture button_content -%}{{ 'product.general.add_to_cart_button' | t }}{%- endcapture -%}

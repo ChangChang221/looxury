@@ -201,7 +201,7 @@
 
       {%- when 'inventory' -%}
         <div class="product-info__inventory {{ block.shopify_attributes }}">
-          {%- render 'inventory', product: product, low_threshold: block.settings.low_inventory_threshold, form_id: product_form_id -%}
+          {%- render 'inventory', product: product, low_threshold: block.settings.low_inventory_threshold, form_id: product_form_id, preorder_ship_days: block.settings.preorder_ship_days, in_stock_text: block.settings.in_stock_text, ship_immediately_text: block.settings.ship_immediately_text, preorder_text: block.settings.preorder_text, ship_from_date_text: block.settings.ship_from_date_text, block_attributes: block.shopify_attributes -%}
         </div>
 
       {%- when 'buy_buttons' -%}

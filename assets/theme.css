@@ -9062,6 +9062,11 @@ split-lines {
   color: rgb(var(--error-text));
 }
 
+.text-pre-order{
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
 .text-subdued {
   color: rgb(var(--text-color) / .7);
 }
