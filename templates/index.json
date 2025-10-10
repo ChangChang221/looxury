@@ -533,6 +533,7 @@
     },
     "fly_banner_TJbxzz": {
       "type": "fly-banner",
+      "disabled": true,
       "blocks": {
         "message_JbqJ3q": {
           "type": "message",
@@ -573,6 +574,7 @@
     },
     "text_with_icons_AxQbJU": {
       "type": "text-with-icons",
+      "disabled": true,
       "blocks": {
         "item_cXEdFn": {
           "type": "item",
