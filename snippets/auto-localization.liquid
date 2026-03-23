@@ -1,0 +1,49 @@
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var currentCountry = {{ localization.country.iso_code | json }};
+  var currentLocale  = {{ localization.language.iso_code | json }};
+  console.log('[locale] current:', currentCountry, currentLocale);
+
+  fetch('/browsing_context_suggestions.json')
+    .then(function (res) { return res.json(); })
+    .then(function (data) {
+      var ipCountry = (data.detected_values && data.detected_values.country && data.detected_values.country.handle)
+        ? data.detected_values.country.handle.toUpperCase()
+        : null;
+
+      var targetCountry = ipCountry === 'VN' ? 'VN' : 'US';
+      var targetLocale  = ipCountry === 'VN' ? 'vi'  : 'en';
+      console.log('[locale] ip:', ipCountry, '→ target:', targetCountry, targetLocale);
+
+      if (currentCountry === targetCountry && currentLocale === targetLocale) {
+        console.log('[locale] already correct, skip');
+        return;
+      }
+
+      var targetKey = targetCountry + ':' + targetLocale;
+      if (localStorage.getItem('looxury_locale') === targetKey) {
+        console.log('[locale] already attempted, skip');
+        return;
+      }
+      localStorage.setItem('looxury_locale', targetKey);
+
+      var countryForm = document.querySelector('form[action*="localization"][id*="country"]');
+      console.log('[locale] countryForm:', countryForm);
+      if (!countryForm) return;
+
+      var localeInput = document.createElement('input');
+      localeInput.type  = 'hidden';
+      localeInput.name  = 'locale_code';
+      localeInput.value = targetLocale;
+      countryForm.appendChild(localeInput);
+
+      var returnInput = countryForm.querySelector('input[name="return_to"]');
+      if (returnInput) returnInput.value = window.location.pathname + window.location.search;
+
+      var countryBtn = countryForm.querySelector('button[name="country_code"][value="' + targetCountry + '"]');
+      console.log('[locale] countryBtn:', countryBtn);
+      if (countryBtn) countryBtn.click();
+    })
+    .catch(function (e) { console.log('[locale] fetch error:', e); });
+});
+</script>
